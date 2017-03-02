@@ -1,0 +1,69 @@
+div#contenu
+{
+	padding: 0 25px 0 100px ;
+	background: url(bg_page.gif) no-repeat 15px 15px ;
+}
+
+div#contenu h2
+{
+	padding-left: 25px ;
+	line-height: 25px ;
+	font-size: 1.4em ;
+	background: url(little_apple.gif) no-repeat left bottom ;
+	color: #9b2 ;
+	border-bottom: 1px solid #9b2 ;
+}
+
+div#contenu h3
+{
+	margin-left: 15px ;
+	padding-left: 5px ;
+	border-bottom: 1px solid #9b2 ;
+	border-left: 3px solid #9b2 ;
+	color: #9b2 ;
+}
+
+div#contenu p
+{
+	text-align: justify ;
+	text-indent: 2em ;
+	line-height: 1.7em ;
+}
+
+div#contenu a
+{
+	color: #8a0 ;
+}
+
+div#contenu a:hover
+{
+	color: #9b2 ;
+}
+
+p#footer
+{
+	margin: 0 ;
+	padding-right: 10px ;
+	line-height: 30px ;
+	text-align: right ;
+	color: #8a0 ;
+}
+
+pre
+{
+	overflow: auto ;
+	background: #dea ;
+	border: 2px solid #9b2 ;
+	padding: 5px 0 0 5px ;
+	font-size: 1.2em ;
+}
+
+pre span
+{
+	color: #560 ;
+}
+
+pre span.comment
+{
+	color: #b30000 ;
+}
